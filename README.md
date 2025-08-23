@@ -14,7 +14,7 @@ Pocket-watch–style personal organiser powered by an ATmega328P and an e-paper 
 
 
 ## Schematic ⚡
-[Peep Schematic V1 (PDF)](Schematic%20PDF_V01.pdf)
+[Peep Schematic (PDF)](Schematic%20PDF_V01.pdf)
 
 ## 📸 Gallery
 
