@@ -13,7 +13,7 @@ Pocket-watch–style personal organiser powered by an ATmega328P and an e-paper 
 - PCB designed in Altium. 
 
 
-## Schematic ⚡
+## ⚡ Schematic 
 [Peep Schematic (PDF)](Schematic%20PDF_V01.pdf)
 
 ## 📸 Gallery
